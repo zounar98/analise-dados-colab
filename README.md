@@ -25,4 +25,4 @@ Temos uma base de dados com informações dos clientes, tanto clientes atuais qu
 5. **Identificar os motivos principais dos clientes que cancelam o cartão de crédito.**
 
 
-6. ✒️ Autores: https://www.hashtagtreinamentos.com/ *mini curso análise de dados com Python
+✒️ Autores: https://www.hashtagtreinamentos.com/ *mini curso análise de dados com Python
