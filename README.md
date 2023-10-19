@@ -14,7 +14,8 @@ Você trabalha em uma grande empresa de Cartão de Crédito e o diretor da empre
 
 Temos uma base de dados com informações dos clientes, tanto clientes atuais quanto clientes que cancelaram o cartão.
 
-Referência: https://www.kaggle.com/sakshigoyal7/credit-card-customers
+- Base de dados: https://docs.google.com/spreadsheets/d/1fYnFdT6ZymJAClf4hRjC50AUpFyaNzT3Ddit62_M-68/edit?usp=sharing
+- Referência: https://www.kaggle.com/sakshigoyal7/credit-card-customers
 
 # PASSOS:
 1. Importar a base de dados;
